@@ -70,7 +70,7 @@ const highScores = [
   }
 ];
 
-console.log(chalk.blue.bgGreen.underline.bold("YOU SCORED: "+score+" (Max-5)"));
+console.log(chalk.green.bgWhite.underline.bold("YOU SCORED: "+score+" (Max-5)"));
 console.log();
 console.log(chalk.cyanBright("HIGH SCORES ARE :-"));
 highScores.map(highScore => console.log(chalk.magentaBright(highScore.name.toUpperCase(), highScore.score)));
