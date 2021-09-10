@@ -1,7 +1,7 @@
 const readlineSync = require("readline-sync");
 const chalk = require('chalk');
 
-console.log(chalk.blue.bgYellow.bold("Welcome to the QUIZ! Let's see how well do you know Nikhil!"));
+console.log(chalk.blue.bgWhite.bold("Welcome to the QUIZ! Let's see how well do you know Nikhil!"));
 console.log();
 let score=0;
 const userName = readlineSync.question(chalk.cyanBright("May i have your name? "));
