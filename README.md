@@ -1,5 +1,6 @@
 # How-Well-Do-You-Know-Me
-This is an assignment for NeoG camp- Mark-01
+https://replit.com/@nikhilsharmaNKS/How-Well-Do-You-Know-Nikhil
+<br/>
 ### A CLI based quiz made with NodeJS on myself! Test how much do you actually know about the me! You also get hints.
 # Tech-Stack
 - NodeJs
